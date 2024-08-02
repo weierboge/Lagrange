@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "旅行规划：打造你的旅行专属清单"
-author: "Paul Le"
+author: "weier"
 categories: journal
 tags: [documentation,sample]
 image: cards.jpg
