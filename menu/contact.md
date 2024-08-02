@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Contact
+title: 联系我们
 permalink: /contact
 ---
+如果你有任何的问题或需求：
 
-If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=%40paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new)
+请联系合作邮箱：3474222613@qq.com
+
