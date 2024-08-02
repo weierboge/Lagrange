@@ -20,8 +20,8 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           '特目：你的人生清单'
-description:	       '教你建立属于自己的专属清单'
+title:		           '特目'
+description:	       '专属你自己的人生清单'
 author:              '韦二伯格'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
