@@ -1,19 +1,39 @@
 ---
-layout: page
-title: Welcome to Lagrange!
-permalink: /about
+layout: post
+title: "关于我们"
+author: "weier"
+categories: journal
+tags: [documentation,sample]
+image: cutting.jpg
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+## 特目：开启你的个性化生活之旅
 
-### Getting Started
+在繁忙的生活中，我们经常需要一个可靠的伙伴来帮助我们保持专注和有序。这就是“特目”存在的意义——一个专为追求个性化生活体验的你打造的平台。
 
-[Getting Started]({{ site.github.url }}{% post_url 2015-10-10-getting-started %}): getting started with installing Lagrange, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+### **特目：你的专属生活规划师**
 
-### Example Content
+“特目”不仅仅是一个网站，它是一种生活方式，一种帮助你在繁杂世界中找到自己节奏的方式。我们相信，通过精心规划和个性化的清单，每个人都能够实现自己的目标和梦想。
 
-[Text and Formatting]({{ site.github.url }}{% post_url 2014-01-01-text-formatting-examples %})
+### **我们的服务**
 
-### Questions?
+- **个性化清单定制**：无论是工作计划、旅行准备，还是日常生活的小事，我们提供定制化的清单服务，确保你的每一个需求都能得到满足。
+- **时间管理策略**：我们提供专业的时间和任务管理技巧，帮助你高效地安排每一天。
+- **旅行规划工具**：从目的地选择到行程安排，我们的工具和建议让你的旅行更加轻松愉快。
+- **健康生活指导**：我们提供健康饮食和运动计划，帮助你构建更健康的生活方式。
+- **学习与发展资源**：无论你在哪个领域，我们都有丰富的学习资源和策略来支持你的个人成长。
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new).
+### **特目社区**
+
+加入“特目”社区，与志同道合的人一起分享经验、获取灵感。在这里，每个人都可以找到属于自己的声音和支持。
+
+### **我们的承诺**
+
+我们承诺提供高质量的内容和服务，不断更新和完善，以满足你不断变化的需求。我们的目标是成为你生活中不可或缺的助手。
+
+### **开始你的特目之旅**
+
+今天就开始你的特目之旅。无论你是想要提高工作效率，规划一次完美的旅行，还是简单地想要让生活更加有序，特目都能为你提供支持。
+
+
+
