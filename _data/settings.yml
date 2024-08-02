@@ -22,11 +22,11 @@ social:
 
 # Customize site text
 pagination:
-  next_page: 'Newer'
-  previous_page: 'Older'
+  next_page: '下一页'
+  previous_page: '上一页'
 
-sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: '分享!'
 
-related_posts: 'You may also enjoy:'
+related_posts: '你还可以看看这些:'
 
-post_date_prefix: 'Written on'
+post_date_prefix: '时间'
