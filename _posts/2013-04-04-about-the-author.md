@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "关于我们"
-author: "Paul Le"
+author: "weier"
 categories: journal
 tags: [documentation,sample]
 image: cutting.jpg
