@@ -1,5 +1,5 @@
 ---
 layout: archive
-title: Writing
+title: 存档
 permalink: /writing
 ---
